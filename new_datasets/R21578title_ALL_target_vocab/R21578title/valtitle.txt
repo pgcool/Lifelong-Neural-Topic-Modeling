@@ -1,0 +1,500 @@
+acq	itel &lt;itel> buys castle/cooke &lt;cke> unit assets
+copper	magma lowers copper 0.75 cent to 66 cts
+crude	ecuador quake to cut oil revenues 800 mln dlrs
+earn	public service n.c. &lt;psnc> raises payout
+earn	american stores co 4th qtr shr 1.57 dlrs vs 1.60 dlrs
+acq	gencorp &lt;gy> takeover group cancels hearing
+earn	analogic corp &lt;alog> 2nd qtr jan 31 net
+cocoa	cocoa buffer stock rules effective immediately
+earn	elsinore corp &lt;elx> year loss
+earn	upper peninsula power co &lt;upen> sets payout
+earn	bayernverein expects unchanged dividend for 1987
+earn	recoton corp &lt;rcot> 4th qtr loss
+gold	murgold resources &lt;mgdvf> details assays
+trade	china trade deficit falls in january
+gold	china's heilongjiang province boosts gold output
+crude:ship	turkey lifts survey ship escort as tension abates
+earn	reading co &lt;rdgc> 4th qtr oper net
+earn	norris oil co &lt;noil> dec 31 year loss
+earn	lands end inc &lt;leys> year jan 31 net
+earn	slough estates views 1987 prospects confidently
+earn	brunswick &lt;bc> sees higher 1987 first quarter
+earn	vicorp restaurants inc &lt;vres> 1st qtr feb 15 net
+cotton:grain:rice:wheat	u.s. farm policy debate could hit senate soon
+earn	&lt;l.b. nelson corp> 4th qtr net
+earn	&lt;gateway medical systems inc> 3rd qtr loss
+trade	baldrige predicts end of u.s.-japan trade dispute
+sugar	mauritian sugar exports fall in february
+iron-steel:ship	report expects sharp drop in world iron imports
+earn	northern states power co &lt;nsp> votes quarterly
+earn	general mining union corp ltd (genm.j) year net
+acq:crude	union pacific &lt;unp> to sell part of refinery
+earn	&lt;wajax ltd> year net
+acq	genova &lt;gnva> signs definitive merger agreement
+corn:grain	france to request permanent maize rebates
+earn	u.s. facilities &lt;usre> semi-annual dividend
+acq	jim walter &lt;jwc> busy owens-corning &lt;ocf> plant
+interest	indian rate cuts to spark industry, agriculture
+acq	safety-kleen &lt;sk> completes acquisition
+sugar	british sugar sowings off to slow start
+acq	charter federal &lt;chfd>, jefferson to merge
+rubber	rubber talks chairman cites slight progress
+crude	unocal &lt;ucl> unit cuts crude oil posted prices
+acq	avalon &lt;avl> stake sold by deltec
+sugar	soviet sugar imports higher in oct/nov
+earn	&lt;scurry-rainbow oil ltd> 1st qtr dec 31 net
+earn	jack winter inc &lt;jwi> 4th qtr jan 3 loss
+earn	photronic labs inc &lt;plab> 1st qtr jan 31 net
+trade	s. korean trade surplus with u.s. seen falling
+earn	consumers financial corp &lt;cfin> 1986 net
+interest	h.k. banks to raise prime rates soon, dealers say
+earn	dorchester hugoton ltd &lt;dhulz> raises payout
+rubber	new rubber pact appears in the balance
+earn	bergen brunswig corp &lt;bbca> 2nd qtr feb 28 net
+gnp	australian fourth qtr gdp rises 1.1 pct, after 0.2 pct third qtr rise - official.
+copper:grain:wheat	western canada hurt by international forces
+carcass	ec ministers extend beef, milk marketing years
+earn	parkway co &lt;pkwy> sets quarterly
+earn	campbell resources inc 2nd qtr shr profit three cts vs loss 10 cts
+copper:silver	west germans to mint community anniversary coin
+instal-debt	u.s. consumer credit rose 1.77 billion dlrs in feb vs revised 789 mln jan gain
+earn	met-pro corp &lt;mpr> 4th qtr ends jan 31 net
+crude	brazil makes second amazon oil discovery
+copper	copper study group considered at geneva meeting
+crude:fuel:nat-gas	natural gas seen recapturing some market share
+earn	campbell soup co &lt;cpb> sets quarterly dividend
+earn	cambridge analytical &lt;caan> sees first qtr loss
+acq	btr nylex raises offer for borg-warner australia
+money-fx:reserves	peru begins foreign exchange rationing
+earn	molecular genetics inc &lt;mogn> 4th qtr loss
+acq	affiliated publications to buy billboard publications  for 100 mln dlrs
+earn	anitec image technology corp &lt;antc> 2nd qtr net
+cpi	yugoslav february inflation rises 7.2 pct
+cocoa	icco council agrees cocoa buffer stock rules
+jobs	japan february unemployment falls to 2.9 pct (3.0 pct in january) - official
+acq	investors have 12.9 pct of exovir &lt;xovr>
+earn	horizon corp &lt;hzn> 4th qtr net
+earn	great northern nekoosa &lt;gnn> announces split
+earn	dresser industries &lt;di> sees return to profit
+acq	renouf has 93.4 pct of benequity &lt;bh> units
+gnp:trade	german research institute lowers growth forecast
+earn	first federal of michigan &lt;ffom> dividend hike
+ipi	french industrial production falls in january
+earn	&lt;franklin gold fund> cuts dividend
+earn	illinois power co&lt;ipc> two months february net
+acq	chase &lt;cmb> buys borg-warner &lt;bor> unit
+earn	samson energy co limited partnership &lt;sam> year
+earn	total erickson resources ltd &lt;tlexf> year net
+tin	tin council winding-up verdict appealed
+ship	liberian ship grounded in suez canal refloated
+interest:money-fx	u.k. money rates harden on lawson currency targets
+crude:nat-gas	permian basin &lt;pbt> proven reserves fall
+money-supply	canadian money supply m-1 falls 1.16 billion dlrs in week, bank of canada said
+earn	mail boxes etc &lt;mail> 3rd qtr jan 31 net
+crude	venezuela wants to boost its refining capacity
+crude	venezuela to lend ecuador 50,000 bpd of crude
+acq	avon says it to buy giorgio inc, a fragrance company, for 185 mln dlrs
+earn	nynex &lt;nyn> increases qtrly cash dividend
+acq	taft &lt;tfb> rejects 145 dlr/shr offer
+earn	first interstate &lt;i> estimates loss on brazil
+acq	twa &lt;twa> sues usair &lt;u> over poison pill
+acq	security &lt;spc>, users, end merger talks
+acq	yankee cos &lt;ynk> unit to sell asssets
+earn	sun alliance pretax profit 180.4 mln stg vs 37.7 mln for
+earn	to-fitness inc &lt;tfit> year dec 31 loss
+acq	dixons boosts cyclops &lt;cyl> ownership to 83 pct
+money-supply	south korean money supply rises in february
+gold:platinum:strategic-metal	black miners support s. african mines takeover
+earn	nodaway valley co &lt;nvco> 4th qtr jan 31 net
+interest:money-fx	u.k. money market shortage forecast revised down
+earn	&lt;ccl industries inc> 4th qtr net
+trade	u.s. treasury's baker opposes tax increase
+acq	mark iv &lt;iv> starts bid for conrac &lt;cax>
+earn	aero services international inc &lt;aeroe> year
+gold:silver	belgian ecu coin issue priced, sale date set
+bop:interest:money-fx:trade	u.k. trade figures buoy hopes of interest rate cut
+grain:wheat	pakistan not seen as major wheat exporter
+acq	wall street stocks/polaroid &lt;prd>
+money-fx:trade	treasury's baker sees cut in trade deficit
+veg-oil	u.s. reaffirms opposition to ec oils tax plan
+copper	noranda sets temporary mine shutdown
+earn	hi-port industries inc &lt;hipt> 4th qtr net
+earn	pep boys - manny, moe and jack inc &lt;pby> 4th qtr
+corn:grain:oat	relief to u.s. corn/oats growers said likely
+money-supply	n.y. business loans fall 222 mln dlrs in march 18 week, fed says
+crude:earn:nat-gas	britoil sees lower u.k. exploration expenditure
+earn	(corrected) - federal paper board co &lt;fbo> payout
+crude	uk cross field prt relief favours smaller fields
+acq	painewebber&lt;pwj> unit ups shaer shoe &lt;shs> stake
+earn	oshap technologies ltd &lt;oshuf> year loss
+earn	northern indiana &lt;ni> 12 mths feb 28 loss
+corn:grain:meal-feed:oilseed:rapeseed:soy-meal	dutch animal feed usage down in first half season
+earn	ryan's family steak house &lt;ryan> sets split
+acq	tenneco &lt;tgt> buys unisys &lt;uis> unit
+earn	may department stores co &lt;ma> raises dividend
+crude	house speaker backs oil import forecast plan
+iron-steel	bethlehem steel &lt;bs> sets plate price increases
+bop:trade	german current account surplus widens in february
+earn	forest oil corp &lt;foil> 4th qtr
+earn	sage analytics &lt;saii> sets stock split
+earn	federal realty investment trust &lt;frt> in payout
+earn	comprehensive care corp &lt;cmph> 3rd qtr net
+acq	husky &lt;hyo> sets meeting to approve merger
+lei	u.s. leading index rose 0.7 pct in february
+ship	iran said to test fire silkworm missile in hormuz
+corn:grain:oilseed:soybean:wheat	cbt traders see lower soybean export inspections
+interest	first national bank of boston &lt;bkb> raises prime
+gnp	south korea's 1987 gnp seen growing nine pct
+earn	southeast banking corp &lt;stb> declares qtly div
+cotton:grain:veg-oil:wheat	u.s. credits for ecuador switched to veg oil
+copper	cyprus lowers copper price 1.25 cts to 67 cts
+earn	comp-u-card international inc &lt;cucd> 4th qtr net
+earn	&lt;guillevin international inc> year jan 31 net
+acq	hanson trust plc unit to sell kaiser cement terminal and plant for 50 mln dlrs
+earn	westworld community health &lt;wchi> 4th qtr loss
+corn:cotton:grain:meal-feed:oilseed:soy-meal:soy-oil:soybean:veg-oil	usda comments on export sales
+money-supply	bangladesh money supply rises in december
+reserves	canadian foreign reserves surge in month
+acq	armtek &lt;arm> unit leveraged buyout completed
+acq	weinberger opposes fujitsu buying u.s. firm
+interest:money-fx	bank of france cuts intervention rate
+sugar	indonesian sugar output seen short of target
+earn	balance computer corp 3rd qtr jan 31 loss
+earn	griffin technology inc &lt;grif> 4th qtr net
+earn	paine webber residential realty inc &lt;pwm> div
+crude	opec president says output well below ceiling
+trade	european community to set up office in peking
+interest:money-fx	u.k. money market receives 170 mln stg help
+lumber	oregon lumber company to sell wood to iraq
+acq	newman, hawker discuss electric motor merger
+trade	british aide criticizes u.s.protectionism
+earn	pulitzer publishing co &lt;pltzc> declares qtly div
+money-fx	fed adds reserves via customer repurchases
+earn	buffton &lt;buff> to post investigation charge
+earn	allied research associates inc &lt;arai> year net
+earn	&lt;cineplex odeon corp> year net
+earn	bsi says expects another good year in 1987
+earn	sdc sydney cost review may eliminate products
+acq	brussels - ferruzzi says it will pay 630 mln dlrs to cpc international for european mills.
+earn	hoechst group pre-tax profit falls in 1986
+interest	canada 91-day t-bills average 6.89 pct, making bank rate 7.14 pct
+earn	quartz engineering and materials &lt;qrtz> 1st qtr
+interest	lawson expects interest rate fall soon
+gold	some 7,000 south african miners return to work
+livestock	ccc accepts export bonus dairy cattle to morocco
+corn:grain	taiwan buys 60,000 tonnes of u.s. maize
+acq:earn	ohio mattress &lt;omt> may have lower 1st qtr net
+hog:livestock	hog report shows more hogs on farms
+trade	japan alerts gatt to south korea import plan
+crude	ors seeks canadian funds for heavy oil test
+trade	gatt sets up dispute panel on canadian herring
+acq	corroon and black &lt;cbl> complete acquisition
+crude	usx &lt;x> unit raises some crude postings
+bop:interest:money-fx:trade	market welcomes lower australian payments deficit
+acq	sportscene acquires christophe van houtte chain
+interest	danish overnight money market rate cut to 10 pct from 10.5 - central bank
+earn	virco manufacturing corp &lt;vir> 4th qtr net
+earn	helm resources inc &lt;h> 4th qtr loss
+acq	american motors said directors took no action on chrysler proposal, postpones annual meeting
+earn	swedish match ab &lt;smbs.st> 1986 year
+acq	harris cuts triad systems &lt;trsc> stake to 18 pct
+earn	healthmate inc &lt;hmte> 4th qtr loss
+sugar	india to hold white sugar buying tender
+acq	borg-warner &lt;bor> board oks sale of unit
+earn	&lt;hudson's bay co> 4th qtr net
+acq	rank makes increased avana offer final
+sugar	syria seeking white sugar on april 8 - trade
+acq	ic inds &lt;icx> to sell certain assets to mlx
+bop	danish credit downgrading not dramatic - minister
+earn	genovese drug stores inc &lt;spec> sets quarterly
+crude	china closes second round of offshore oil bids
+acq	dixons says citicorp to withdraw cyclops offer
+money-fx	mulford says g-6 wants stability
+earn	helig-meyers co &lt;hmy> year feb 28
+reserves	mexico's reserves reach eight billion dlrs
+earn	northview corp &lt;novc> year net
+earn	novar electronics corp &lt;novr> 4th qtr jan three
+acq	vulcan &lt;vul> withdraws jones/vining &lt;jnsv> bid
+earn	united illuminating co &lt;uil> two months feb 28
+acq	utilicorp &lt;ucu> acquires dominion &lt;d> subsidiary
+trade	japan denies breaking semiconductor trade pact
+strategic-metal	minas de almaden raises mercury price
+acq	norcros rejects 542.2 mln stg bid from williams
+crude	u.k. oil revenue forecast to fall in 1987/88
+acq	mony financial buys united administrators &lt;uai>
+earn	mlx corp &lt;mlxx> 4th qtr loss
+acq	kdi &lt;kdi> to buy triangle microwave &lt;trmw>
+acq	comtech &lt;cmtl> to sell premier microwave
+acq	noranda buys shares of sanivan group
+tin	u.s. defends stockpiled tin sales in 1986
+acq	businessman has 8.9 pct of del e. webb &lt;dwp.a>
+earn	first union &lt;fur> leaves dividend unchanged
+earn	national security insurance co &lt;nsic> 4th qtr
+alum	kentucky smelters get relief on higher rates
+earn	goodyear tire &lt;gt> details 1986 tax refund
+earn	unilever plc and nv combined 1986 pre-tax profit 1.14 billion stg vs 953 mln.
+earn	shaw's supermarkets inc &lt;shaw> year jan 3
+sugar	india buys white sugar from london traders
+earn	bic corp &lt;bic> sets quarterly
+housing	u.s. single-family home sales fell 6.8 pct in jan after revised 12.1 pct dec gain
+iron-steel	krupp to build south korean steel plant
+acq	adobe &lt;adb>, high plains &lt;hpoc> to merge
+earn	&lt;brnf liquidating trust> sets distributions
+trade	u.s. house panel approves trade bill
+interest	house subcommittee votes credit card rate cap
+acq	policy management &lt;pmsc> makes acquisition
+crude:gas	api says distillate stocks off 4.07 mln bbls, gasoline off 2.69 mln, crude up 8.53 mln
+earn	medchem products inc &lt;mdch> 2nd qtr feb 28 net
+earn	kloeckner sees further growth in engineering
+trade	economic spotlight - u.s. congress raps japan
+earn	&lt;sasco products inc> year loss
+crude:nat-gas	resource exploration &lt;rexi> in drilling pact
+earn	mechtron international corp &lt;mcht> year net
+earn	m.d.c. asset investors &lt;mir> in initial payout
+earn	taro vit industries ltd &lt;tarof> year loss
+acq	dome petroleum reaffirms dome mines stake for sale at right price, spokesman says
+rubber	u.n. conference formally adopts new international natural rubber agreement - chairman
+acq	senator wants stronger air merger regulation
+money-fx	treasury's baker pursuing s. asian revaluations
+earn	bindley western industries inc&lt;bind>4th qtr net
+housing	u.s. home sales fell 6.8 pct in january
+barley:corn:grain:oilseed:rapeseed:wheat	french cereal exports through rouen fall
+earn	lucas sees continued growth in second half
+acq	century business credit &lt;cty> gets offer
+earn	telephone and data systems inc &lt;tds> 4th qtr net
+earn	union carbide says operating profits for 4th qtr were 181 mln dlrs vs loss three mln dlrs
+money-fx	baker says u.s. willing to cooperate to stabilize exchange rates
+interest	treasury's baker says he hopes prime rate increases
+acq	hutton &lt;efh> still interested in purolator &lt;pcc>
+trade	u.s. official to visit japan as trade row grows
+earn	quantech &lt;qant> needs additional funds
+earn	leaseway transportation corp &lt;ltc> qtly div
+interest	u.s. credit market outlook - prime rate
+acq	national capital &lt;ncets> to make sale
+acq	dixons gets only 20 pct of cyclops &lt;cyl> in bid
+crude:ship	iran warns u.s. not to intervene in the gulf
+earn	nova an alberta corp 4th qtr shr loss 15 cts vs loss 1.09 dlrs
+bop:trade	danish trade in balance in february
+gnp	japan october/december gnp up 0.8 pct (july/sept revised 0.7 rise) - official
+earn	restaurant associates inc &lt;ra> 4th qtr jan 3
+earn	&lt;toromont industries ltd> year net
+crude:gas:heat	supplies, mideast tension fuel gains in oil
+money-fx	bank of england forecasts surplus in money market
+money-supply	n.z. money supply rises 2.4 pct in january
+interest	bank of england invites borrowing at 10 pct
+earn	hunt manufacturing co &lt;hun> sets payout
+acq	mts acquisition has negligible number of caesars world shares
+acq	enterra corp &lt;en> sells two units
+earn	british caledonian group announces big losses
+coffee	coffee conference ends with call to continue talks
+acq	union to protest dart's supermarkets &lt;sgl> bid
+earn	gulf states (gsu) sees end to cash by may
+trade	economic spotlight - japan pushes its chipmakers
+earn	rockefeller center properties &lt;rcp> ups payout
+earn	texas utilities co &lt;txu> 12 mths feb 28 net
+interest	bankamerica &lt;bacp> raises prime rate to 7.75 pct
+acq	iroquois brands &lt;ibl> rebuffs lyon foods claims
+earn	texas international &lt;tei> has unqualified audit
+cocoa	icco puts 1986/87 world cocoa surplus  94,000 tonnes vs 118,000 in 1985/86 - delegates
+interest	fed sets 1.5 billion dlr customer repurchase, fed says
+acq	tele-communications &lt;tcoma> sells cable systems
+trade	gatt council defers decision on semiconductors
+earn	20-mar-1987
+interest:money-fx	fed expected to add temporary reserves
+earn	groupe bruxelles lambert profit up
+earn	ford motor co of canada ltd &lt;fc> 4th qtr net
+earn	getty petroleum &lt;gty> year net
+earn	&lt;keltic inc> year net
+groundnut:veg-oil	ascs buys peanut products, veg oil/shortening
+earn	cheung kong (holdings) ltd &lt;ckgh.hk> year 1986
+money-fx	volcker sees tight policy hurting investment
+earn	first interstate &lt;i> estimates brazil risks
+earn	cri insured &lt;cii> to set special distribution
+earn	towle manufacturing co &lt;qtow> 4th qtr oper loss
+earn	esselte ab &lt;esb.st> 1986 results
+barley:corn:grain:wheat	french free market cereal export bids detailed
+sugar	west german 1986 sugar output rises
+dlr:money-fx:yen	dlr falls on fears, miyazawa says
+trade	next world trade negotiations must succeed - nz
+ship:sugar	7-apr-1987 17:01:06.32
+dlr:money-fx:yen	japan sets aside yen funds to prevent dlr fall
+ship	dutch parliament offers little help in port row
+earn	nature's bounty inc &lt;nbty> year loss
+crude	opec reaffirms commitment to fixed prices, ceiling
+coffee:crude:grain:iron-steel:tea:trade:wheat	india steps up countertrade deals to cut trade gap
+grain:oilseed:soybean:veg-oil:wheat	ldc food aid needs decline in 1986/87 - usda
+acq	amoskeag bank &lt;amkg> to seek rehearing
+earn	telxon &lt;txln> sees slightly higher 4th qtr net
+earn	&lt;a.h.a. automotive technologies corp> year net
+trade	u.s. asks japan end agriculture import controls
+acq	kapok corp &lt;kpk> in technical default
+earn	methode electronics inc &lt;methb> regular payout
+earn	transco exploration partners ltd &lt;exp> in payout
+meal-feed:oilseed	ccc guarantees to turkey switched to meals-usda
+acq	hughes tool directors reject merger with baker
+interest:money-fx	new dutch advances total 4.1 billion guilders
+gnp	world bank report criticises peru economic plan
+earn	kirin brewery co ltd &lt;knbw.t> year to january 31
+earn	pearson concentrates on four sectors
+earn	casey's general stores inc &lt;casy> 3rd qtr jan 31
+coconut:oilseed	philippine coconut product exports fall in january
+earn	&lt;teeco properties lp> sets cash distribution
+acq	hughes &lt;ht> approves merger with baker &lt;bko>
+acq	wickes companies &lt;wix> completes sale of unit
+earn	general cinema corp 1st qtr oper shr 43 cts vs 47 cts
+earn	dean foods co &lt;df> 3rd qtr net
+earn	suffield financial corp &lt;sfcp> raises quarterly
+acq	u.k. to sell off remaining 31.7 pct stake in bp
+acq	&lt;hoechst ag> completes celanese &lt;cz> acquisition
+ship	iran says it intends no threat to gulf shipping
+palm-oil:veg-oil	indonesia to import palm oil, fears may shortage
+earn	cpc international inc &lt;cpc> qtly div
+cotton	india 1986/87 cotton export quota up 190,000 bales
+sugar	uk intervention bd says ec sold 60,500 tonnes white sugar at rebate 44.819 ecus.
+earn	mcclain industries &lt;mccl> sets stock split
+oilseed:soybean	japan buys large amount of brazilian soybeans
+gold	sigma mines details gold ore reserves
+earn	castle and cooke &lt;cke> takes fourth qtr loss
+earn	stc plc &lt;stcl.l> year to end-1986
+trade	australian minister says agriculture gatt priority
+trade:veg-oil	philippines criticises ec for vegetable oil levy
+acq	foote mineral &lt;fte> to merge into rio tinto
+earn	crowley, milner and co&lt;com> 4th qtr jan 31 net
+grain	illinois co-op futures dissolution vote set
+acq	diagnostic/retrieval systems inc makes 53 mln dlr bid for rospatch corp
+earn	endotronics &lt;endo> expects loss for year
+acq	macandrews/forbes begins revlon &lt;rev> offer
+earn	transducer systems inc year
+earn	fisons plc &lt;fisn.l> year to end-1986
+acq	louisiana pacific &lt;lpx> buys oregon sawmill
+acq	mcdermott &lt;mdr> says stake violates law
+earn	sensormatic electronics corp &lt;snsr> 3rd qtr net
+coffee	indonesia pressing for compromise over coffee
+crude	energy/california oil production
+earn	laenderbank expects modest profit rise in '87
+money-fx	sumita says bank will intervene if necessary
+earn	tcby enterprises &lt;tcby> splits stock
+earn	st. joseph light &lt;saj> sets split, hikes payout
+earn	conagra inc 3rd qtr shr 36 cts vs 31 cts
+acq	wallenberg group raises stake in ericsson
+acq	chrysler &lt;c> deal leaves uncertainty for amc workers
+earn	international dairy queen &lt;indqa> 1st qtr net
+acq	uaw says it back chrysler &lt;c>, amc &lt;amo> merger
+lumber	usda's amstutz "sympathetic" to wood credits
+cocoa	icco group looks at cocoa buffer stock rule plan
+gnp	german research institute lowers growth forecast
+earn	creditanstalt-bankverein &lt;cabv.v> year 1986
+acq	gencorp &lt;gy> bid could be raised, group says
+oilseed:soybean	brazil soy harvest 13 pct complete - newsletter
+orange	fcoj movement 3,915,370 gallons last week
+livestock	ccc accepts export bonus for cattle to egypt
+crude:nat-gas	u.s. supreme court allows offshore alaskan oil and gas exploration
+grain:wheat	u.s. exporters report 455,000 tonnes  of wheat sold to china for 1986/87 and 1987/88
+interest	philippines sees 1987 government revenue up 26 pct
+earn	luby's cafeterias inc &lt;lub> 2nd qtr feb 28 net
+grain	report on export markets for u.s. grain delayed
+coffee	colombia blasts u.s. for coffee talks failure
+acq	hughes tool &lt;ht> up on merger speculation
+earn	tempo enterprises inc &lt;tpo> year net
+earn	times mirror co &lt;tmc> quarterly dividend
+acq	phh &lt;phh> buys two design firms
+sugar	turkey seeking 100,000 tonnes sugar - trade
+oilseed:rape-oil:rapeseed:sun-oil:sunseed:veg-oil	algeria sets tender for rape/sunflowerseed oil
+dlr:money-fx:yen	bank of japan intervenes buying dollars at around 147.30 yen - dealers
+grain:meal-feed:oilseed:ship:veg-oil	rotterdam grain handlers stage lightning strikes
+cpi	colombian inflation rises 2.03 pct in february
+acq	carolyn bean &lt;cben> completes acquisition
+coffee:ship	brazil coffee exports disrupted by strike
+earn	ultrasystems inc &lt;uls> 4th qtr jan 31 net
+acq	black hawk mining can't explain stock rise
+acq	canadian pacific &lt;cp> seeks buyer for unit
+corn:grain	traders expect sharp drop in u.s. corn acreage
+earn	caribou energy reverse split approved
+sugar	london sugar opens steady but quiet
+earn	national entertainment corp &lt;nent> 3rd qtr net
+carcass:sugar	ec extends parts of free food for poor scheme
+interest:money-fx	lawson remarks dash hopes of early u.k. rate cut
+interest:money-fx:money-supply	spain raises call money rates on higher demand
+cpi	sweden revises down january's inflation figure
+acq	ic gas makes no recommendation on tractebel offer
+acq	far west financial &lt;fwf> to buy progressive
+interest	japan long-term prime seen cut to record low soon
+acq	american travellers &lt;atvc> to make acquisition
+earn	tricentrol to concentrate on proven reserves
+earn	texas international co &lt;tei> 4th qtr loss
+earn	tseng laboratories inc &lt;tsng> 4th qtr net
+interest:money-fx	fed expected to set customer repurchases
+earn	the broken hill pty co ltd &lt;brkn.s> nine months
+grain:wheat	ec sources say uk wheat plan yet to be approved
+trade	canada outlines gatt agricultural reform plan
+earn	wrather corp &lt;wco> 4th qtr loss
+gnp:reserves	south africa gdp up 4.7 pct in 1986 last quarter
+acq	first granite &lt;fgbi> agrees to be acquired
+earn	babcock international plc &lt;babk.l> year 1986
+earn	on-line software &lt;osi> 3rd qtr feb 28 net
+bop:trade	german trade, current account data due today
+earn	mayfair industries inc &lt;mayf> 4th qtr net
+crude	diamond shamrock &lt;dia> raises crude oil postings
+earn	ameritrust &lt;amtr> sets two for one stock split
+acq	dallas investor cuts stake in mcdermott (mdr)
+acq	quaker oats &lt;oat> sells unit to keystone
+acq	redstone details sweetened viacom &lt;via> offer
+earn	newcor inc &lt;new> 1st qtr jan 31 net
+earn	charter power systems inc &lt;chp> 4th qtr jan 31
+money-fx:trade	yeutter says budget cut key to better u.s. trade
+ipi	ec industry output growth slows in 1986
+copper	chilean copper workers elect left-wing leaders
+earn	cri insured ii &lt;cii> estimates dividends
+crude	mobil &lt;mob> raises west coast crude postings
+acq	wall street stocks/chrysler &lt;c>, amc &lt;amo>
+earn	wolverine world wide inc &lt;www> 4th qtr loss
+earn	de tomaso industries inc &lt;dtom> year net
+earn	att &lt;t> sets payout for regular dividend
+acq	cineplex odeon buying coke &lt;ko> cinema unit
+acq	&lt;wavehill international inc> makes purchse
+crude	phillips raises crude postings 50 cts effective today, wti to 17.50 dlrs/bbl
+earn	new plan realty trust &lt;npr> 2nd qtr net
+earn	hershey oil corp &lt;hso> 4th qtr loss
+acq	deloitte haskins sells gets stake in company
+acq:ship	mclean's &lt;mii> u.s. lines sets asset transfer
+earn	piedmont aviation inc &lt;pie> sets quarterly
+earn	(montreal city, district savings bank) 1st qtr
+acq	cyacq amends cyclops offer conditions, says citicorp expands financing
+sugar	colombia to sell sugar, london traders say
+earn	patrick petroleum co &lt;ppc> year loss
+acq	american express &lt;axp> up on shearson rumors
+trade	norway's trade deficit widens in february
+earn	&lt;samsung co> calendar 1986
+earn	&lt;gendis inc> 4th qtr jan 31 net
+money-fx	saudi riyal deposit rates ease
+grain:wheat	oklahoma weekly crop report
+acq	united security &lt;unse> to buy robert brown unit
+acq	taft &lt;tfb> stock rises on proposal
+crude:gas	drawdown seen in u.s. distillate stocks
+acq	first union &lt;func> acquisition approved
+earn	home savings bank &lt;hmsb> sets initial dividend
+earn	pubco &lt;pubo> declares dividend right
+acq	harper/row &lt;hpr> gets expressions of interest
+earn	chi-chi's inc &lt;chic> 3rd qtr jan 31 loss
+money-fx	france repays some of currency intervention debt
+ship	japan shipbuilders seek cartel to restrict output
+ship	accord said in sight in brazil seamen's strike
+copper	peru's centromin says no copper force majeure
+interest:money-fx	uk money rates fall as bank approves base rate cut
+earn	braniff inc &lt;bair> 4th qtr loss jan 31
+earn	computer network technology &lt;cmnt> 4th qtr loss
+earn	metex corp &lt;mtx> 4th qtr dec 28
+trade	south korea to keep trade surplus 3-5 years
+acq	bsn &lt;bsn> share sale advances
+acq	dennison manufacturing &lt;dsn> to sell paper unit
+acq	fortune &lt;forf> to acquire marine savings
+earn	&lt;franklin u.s. government securities fund>payout
+reserves	italian net reserves rise in february
+tin	bulletin says tin price may rise to 20 ringgit
+interest	u.s. bill auction rates average 5.63, 5.59 pct
+acq	bilzerian ups pay 'n pak &lt;pnp> stake to 9.9 pct
+earn	&lt;paloma petroleum ltd> year net
+earn	thyssen sees good 1987 profit despite steel losses
+bop:trade	japan february current account, trade surplus jump
+cpi	swiss consumer prices rise one pct in march
+earn	oxford first corp &lt;ofc> 4th qtr net
